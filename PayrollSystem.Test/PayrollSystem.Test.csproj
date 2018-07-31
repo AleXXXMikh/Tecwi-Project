@@ -48,7 +48,7 @@
   <ItemGroup>
     <Compile Include="CalculationSalaryServiceTests.cs" />
     <Compile Include="DomainFactory.cs" />
-    <Compile Include="DomainsTests.cs" />
+    <Compile Include="DomainTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

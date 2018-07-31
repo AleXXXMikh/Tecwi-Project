@@ -3,7 +3,7 @@ using System;
 
 namespace PayrollSystem.Test
 {
-    public class DomainsTests
+    public class DomainTests
     {
         [SetUp]
         public void SetUp()
